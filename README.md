@@ -1,0 +1,1 @@
+The trained model is not included. After adding a permitted dataset, run `python train_model.py`. It creates `models/emotion_model.keras` and `models/class_names.txt`. The Streamlit app needs the model file before predictions can run.
